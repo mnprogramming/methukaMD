@@ -4,4 +4,6 @@ creator-METHUKA NISALITHA MAPALAGAMA
 
 ❤pair code❤- https://pair-web-public.koyeb.app/
 
-![image](https://github.com/user-attachments/assets/a2fa2add-a06f-4847-b9b7-93cb423c30c5)
+![methuka-MD](https://github.com/user-attachments/assets/0b69ba1b-8ab9-4e1f-8a68-7daf53d38346)
+
+
