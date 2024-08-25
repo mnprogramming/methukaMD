@@ -25,14 +25,14 @@ let desc ='
 
   PROGRAMMER💻-Methuka Nisalitha
   '
-await conn.sendmassage(from,(immage:(url: data.thumbnail),caption:desc),(quoted:mek));
+await conn.sendmassage(from,{immage:{url: data.thumbnail},caption:desc},{quoted:mek});
 
   //download audio
 let down = await fg.yta(url)
 let downloadurl = down.dl_url
 
  //send audio msg 
-await conn.sendmassage(from,())
+await conn.sendmassage(from,{audio:{url:downloadurl},mimetype:"audio/mpeg"},{quoted:mek})
 }catch(e){
 console.log(e)
   reply('s{e}')
