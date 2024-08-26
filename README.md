@@ -2,7 +2,7 @@
 🆕🆓
 creator-METHUKA NISALITHA MAPALAGAMA
 
-❤pair code❤- https://pair-web-public.koyeb.app/
+❤pair code❤- https://pair-web-public.koyeb.app/<br>
 WA CHANNEL-https://whatsapp.com/channel/0029VamMpMMG8l566Rg9Pj16
 
 
